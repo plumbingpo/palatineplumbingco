@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://palatineplumbingco.com/sitemap.xml
